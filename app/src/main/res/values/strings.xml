@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Pogoda_2</string>
+    <string name="app_name">My Application</string>
+    <string name="Logo">Погода в вашому місті</string>
+    <string name="Hint_user_field">Введіть місто</string>
+    <string name="main_btn">дізнатися погоду</string>
+    <string name="no_user_input">Введіть місто</string>
 </resources>
